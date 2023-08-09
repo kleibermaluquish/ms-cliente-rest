@@ -1,0 +1,2 @@
+INSERT INTO customers (nombres, apellidos, tipo_documento, numero_documento, codigo_unico) VALUES ('Alejandro', 'Rios', 'dni', '70080839', 'cod01')
+INSERT INTO customers (nombres, apellidos, tipo_documento, numero_documento, codigo_unico) VALUES ('Jorge', 'Gonzales', 'ce', '502144545601', 'cod02')
